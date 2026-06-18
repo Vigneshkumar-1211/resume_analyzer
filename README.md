@@ -6,7 +6,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Model-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 ---
